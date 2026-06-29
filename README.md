@@ -1,17 +1,21 @@
+
 # 👋 Hi, I'm **Harsithram R**
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;AI+%7C+IoT+%7C+FPGA+%7C+VLSI+Enthusiast;Building+Real-World+Engineering+Solutions"/>
+
 ### ⚡ Electronics & Communication Engineering Student
 
-**Embedded Systems • AI • IoT • VLSI • FPGA**
+**Embedded Systems • Artificial Intelligence • IoT • FPGA • VLSI • Computer Vision**
 
-*Designing intelligent embedded systems that bridge hardware and software.*
+> *Designing intelligent systems where hardware meets software.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Embedded+Systems+Developer;AI+%26+Computer+Vision+Enthusiast;IoT+Developer;VLSI+%26+FPGA+Learner;Always+Building+Something+New)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=HARSITHRAM&style=for-the-badge&color=blue)
-![Followers](https://img.shields.io/github/followers/HARSITHRAM?style=for-the-badge)
+<p>
+<img src="https://komarev.com/ghpvc/?username=HARSITHRAM&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/HARSITHRAM?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/HARSITHRAM?style=for-the-badge"/>
+</p>
 
 </div>
 
@@ -21,125 +25,113 @@
 
 ```yaml
 Name        : Harsithram R
-Education   : B.E. Electronics & Communication Engineering
+Degree      : B.E. Electronics & Communication Engineering
 College     : Kongu Engineering College
 Graduation  : 2027
 
-Focus Areas:
+Passionate About:
   - Embedded Systems
-  - IoT
   - Edge AI
-  - Computer Vision
-  - VLSI
+  - IoT
   - FPGA
+  - VLSI
+  - Computer Vision
+  - Robotics
   - Product Development
 ```
 
-I enjoy building products that combine hardware and software to solve practical engineering problems. My interests span embedded firmware, AI at the edge, digital design, and full-stack applications.
+I enjoy building intelligent embedded products that combine firmware, electronics,
+AI and modern software. My goal is to work on semiconductor and embedded technologies
+that create practical impact.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-## 💻 Languages
+## 👨‍💻 Languages
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css"/>
 </p>
 
-## ⚙️ Embedded & Hardware
+## ⚙ Embedded Systems
 
-- 🔹 ESP32
-- 🔹 Raspberry Pi
-- 🔹 Arduino
-- 🔹 Embedded C
-- 🔹 UART
-- 🔹 SPI
-- 🔹 I²C
-- 🔹 GPIO
-- 🔹 MQTT
-- 🔹 Sensor Interfacing
+<p align="center">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+</p>
 
-## 🤖 AI & ML
+- ESP32
+- STM32
+- Raspberry Pi
+- Arduino
+- UART
+- SPI
+- I²C
+- GPIO
+- MQTT
+- Embedded C
 
-- 🧠 OpenCV
-- 🎯 YOLOv8
-- 📈 LSTM
-- 🐍 Python
-- 👁️ Computer Vision
-- ⚡ Edge AI
+## 🤖 AI / ML
+
+- OpenCV
+- YOLOv8
+- LSTM
+- TensorFlow
+- PyTorch
+- Computer Vision
 
 ## 🌐 Web
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
 </p>
 
-## 📚 Currently Learning
+## 🧰 Tools
 
-- FPGA Design
-- Verilog HDL
-- Embedded Linux
-- RTOS
-- PCB Design
-- STM32 Bare-Metal Programming
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,matlab"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🦯 AI Smart Blind Stick
+An assistive navigation system for visually impaired users.
 
-An AI-powered navigation system designed to improve mobility for visually impaired users.
+**Features**
+- YOLOv8 Object Detection
+- Voice Navigation
+- Google Maps Guidance
+- Emergency SOS
+- GPS Tracking
+- Fall Detection
+- MQTT Communication
+- Raspberry Pi + ESP32 Architecture
 
-### Highlights
-
-- 🎯 YOLOv8 Object Detection
-- 🗺️ Voice Navigation
-- 📍 GPS Tracking
-- 📞 Emergency SOS
-- 🌍 Multi-language Support
-- 📡 MQTT Communication
-- 🚶 Fall Detection
-- 🔊 Voice Feedback
-
-### Hardware
-
+**Hardware**
 - Raspberry Pi 4
 - ESP32
-- Camera Module
-- Ultrasonic Sensors
+- Camera
 - MPU6050
-- GPS Module
+- GPS
+- Ultrasonic Sensors
 - Buzzer
-- Push Buttons
 
 ---
 
-## 🎓 Interactive Online Classroom
+## 🤖 Interactive Online Classroom
 
-AI-powered classroom monitoring system.
+AI-powered engagement monitoring system.
 
 - Face Detection
 - Attendance
-- Student Engagement Analysis
-- AI Analytics
+- Attention Analysis
+- Dashboard
 
 ---
 
-## 📄 Resume Analyzer
-
-An ATS-inspired resume analysis application.
-
-- Resume Parsing
-- Skill Matching
-- Keyword Analysis
-- Improvement Suggestions
-
----
-
-## ⚙️ STM32 Bare-Metal Projects
-
-Firmware developed using register-level programming.
+## ⚙ STM32 Bare-Metal Projects
 
 - GPIO
 - Timers
@@ -147,21 +139,40 @@ Firmware developed using register-level programming.
 - SPI
 - I²C
 - Interrupts
+- Register-Level Programming
+
+---
+
+## 📄 Resume Analyzer
+
+Python application for resume parsing, ATS scoring and skill recommendations.
 
 ---
 
 ## 🤖 Voice Controlled Pick & Place Robot
 
-Industrial automation project featuring voice-controlled object manipulation.
+Voice-operated robotic arm using embedded controllers.
 
 ---
 
 # 🏆 Achievements
 
 - 🥇 Ideathon Participant
-- 💡 Smart India Hackathon Participant
-- 🚀 Built AI, Embedded Systems, and IoT projects
-- 📚 Continuously learning modern embedded technologies
+- 🚀 Smart India Hackathon Participant
+- 💡 Built multiple AI & Embedded projects
+- 📚 Constantly learning new technologies
+
+---
+
+# 📚 Currently Learning
+
+- Embedded Linux
+- RTOS
+- FPGA Design
+- Verilog HDL
+- PCB Design
+- Device Drivers
+- Edge AI
 
 ---
 
@@ -184,22 +195,35 @@ Industrial automation project featuring voice-controlled object manipulation.
 
 # 🎯 Career Goal
 
-To contribute to innovative products in **Embedded Systems, Semiconductor Design, AI, VLSI, and FPGA**, building reliable, scalable solutions that integrate hardware and software.
+To build innovative products in Embedded Systems, AI, Semiconductor Design,
+FPGA and VLSI while continuously improving my engineering skills.
 
 ---
 
-# 📫 Connect
+# 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email: YOUR_EMAIL@example.com
-- 💻 GitHub: https://github.com/HARSITHRAM
+<p align="center">
+
+<a href="https://github.com/HARSITHRAM">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-## ⭐ *Turning Ideas into Intelligent Embedded Solutions*
+## ⭐ Thanks for visiting my profile!
 
-Thanks for visiting my profile!
+*"Turning Ideas into Intelligent Embedded Solutions."*
 
 </div>
