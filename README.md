@@ -1,218 +1,205 @@
-# Hi there 👋, I'm Harsithram R
+# 👋 Hi, I'm **Harsithram R**
 
 <div align="center">
 
-### Electronics & Communication Engineering Student
+### ⚡ Electronics & Communication Engineering Student
 
-**Embedded Systems | IoT | Machine Learning | Full Stack Developer**
+**Embedded Systems • AI • IoT • VLSI • FPGA**
 
----
+*Designing intelligent embedded systems that bridge hardware and software.*
 
-*"Building intelligent systems that bridge hardware and software."*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Embedded+Systems+Developer;AI+%26+Computer+Vision+Enthusiast;IoT+Developer;VLSI+%26+FPGA+Learner;Always+Building+Something+New)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=HARSITHRAM&style=for-the-badge&color=blue)
+![Followers](https://img.shields.io/github/followers/HARSITHRAM?style=for-the-badge)
 
 </div>
 
-## 🚀 About Me
+---
 
-* 🎓 B.E. Electronics and Communication Engineering
-* 📍 Kongu Engineering College, Tamil Nadu, India
-* 💡 Passionate about Embedded Systems, AI, IoT, and Product Development
-* 🔭 Currently building an AI-powered Smart Blind Stick
-* 🌱 Learning Embedded Linux, VLSI, FPGA, and Edge AI
-* 🎯 Goal: Build impactful products that solve real-world problems
+# 🚀 About Me
+
+```yaml
+Name        : Harsithram R
+Education   : B.E. Electronics & Communication Engineering
+College     : Kongu Engineering College
+Graduation  : 2027
+
+Focus Areas:
+  - Embedded Systems
+  - IoT
+  - Edge AI
+  - Computer Vision
+  - VLSI
+  - FPGA
+  - Product Development
+```
+
+I enjoy building products that combine hardware and software to solve practical engineering problems. My interests span embedded firmware, AI at the edge, digital design, and full-stack applications.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Programming Languages
+## 💻 Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css"/>
+</p>
 
-```text
-C
-Java
-Python
-JavaScript
-SQL
-```
+## ⚙️ Embedded & Hardware
 
-### Embedded Systems
+- 🔹 ESP32
+- 🔹 Raspberry Pi
+- 🔹 Arduino
+- 🔹 Embedded C
+- 🔹 UART
+- 🔹 SPI
+- 🔹 I²C
+- 🔹 GPIO
+- 🔹 MQTT
+- 🔹 Sensor Interfacing
 
-```text
-ESP32
-Raspberry Pi
-Arduino
-UART
-SPI
-I2C
-GPIO
-MQTT
-```
+## 🤖 AI & ML
 
-### AI / Machine Learning
+- 🧠 OpenCV
+- 🎯 YOLOv8
+- 📈 LSTM
+- 🐍 Python
+- 👁️ Computer Vision
+- ⚡ Edge AI
 
-```text
-Python
-OpenCV
-YOLOv8
-LSTM
-TensorFlow
-PyTorch
-```
+## 🌐 Web
 
-### Web Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github,vscode,linux"/>
+</p>
 
-```text
-React
-Node.js
-Express.js
-MongoDB
-JWT
-REST APIs
-HTML
-CSS
-```
+## 📚 Currently Learning
 
-### VLSI & FPGA
-
-```text
-Verilog HDL
-ModelSim
-FPGA
-RTL Design
-Digital Electronics
-```
-
-### Tools
-
-```text
-Git
-GitHub
-Linux
-VS Code
-Proteus
-MATLAB
-Postman
-Arduino IDE
-```
+- FPGA Design
+- Verilog HDL
+- Embedded Linux
+- RTOS
+- PCB Design
+- STM32 Bare-Metal Programming
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
 ## 🦯 AI Smart Blind Stick
 
-An intelligent navigation system for visually impaired individuals.
+An AI-powered navigation system designed to improve mobility for visually impaired users.
 
-### Features
+### Highlights
 
-* Object Detection using YOLOv8
-* Voice Navigation
-* GPS Tracking
-* Emergency SOS
-* Fall Detection
-* Multi-language Support
-* MQTT Communication
-* Raspberry Pi + ESP32 Architecture
+- 🎯 YOLOv8 Object Detection
+- 🗺️ Voice Navigation
+- 📍 GPS Tracking
+- 📞 Emergency SOS
+- 🌍 Multi-language Support
+- 📡 MQTT Communication
+- 🚶 Fall Detection
+- 🔊 Voice Feedback
 
----
+### Hardware
 
-## 🌐 Employee Management System (MERN)
-
-A complete Employee Portal featuring:
-
-* Authentication
-* Dashboard
-* Employee Management
-* Admin Panel
-* JWT Authentication
-* MongoDB Database
+- Raspberry Pi 4
+- ESP32
+- Camera Module
+- Ultrasonic Sensors
+- MPU6050
+- GPS Module
+- Buzzer
+- Push Buttons
 
 ---
 
-## 📡 IoT Monitoring System
+## 🎓 Interactive Online Classroom
 
-Built MQTT-based communication between edge devices and cloud dashboards.
+AI-powered classroom monitoring system.
 
-Technologies:
-
-* ESP32
-* MQTT
-* Node.js
-* Real-time Monitoring
+- Face Detection
+- Attendance
+- Student Engagement Analysis
+- AI Analytics
 
 ---
 
-## 🤖 Student Monitoring LLM
+## 📄 Resume Analyzer
 
-Developed an AI-powered monitoring system capable of analyzing online classroom activities using machine learning.
+An ATS-inspired resume analysis application.
+
+- Resume Parsing
+- Skill Matching
+- Keyword Analysis
+- Improvement Suggestions
 
 ---
 
-# 📚 Currently Learning
+## ⚙️ STM32 Bare-Metal Projects
 
-* Embedded Linux
-* Edge AI
-* RTOS
-* PCB Design
-* Computer Vision
-* FPGA Development
-* VLSI Front-End Design
-* Advanced DSA
+Firmware developed using register-level programming.
+
+- GPIO
+- Timers
+- UART
+- SPI
+- I²C
+- Interrupts
+
+---
+
+## 🤖 Voice Controlled Pick & Place Robot
+
+Industrial automation project featuring voice-controlled object manipulation.
 
 ---
 
 # 🏆 Achievements
 
-* 🥇 Ideathon Participant
-* 💡 Smart India Hackathon Participant
-* 🚀 Built multiple IoT and AI-based projects
-* 📖 Continuously improving problem-solving skills on coding platforms
+- 🥇 Ideathon Participant
+- 💡 Smart India Hackathon Participant
+- 🚀 Built AI, Embedded Systems, and IoT projects
+- 📚 Continuously learning modern embedded technologies
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HARSITHRAM&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSITHRAM&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HARSITHRAM&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSITHRAM&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🎯 Career Goal
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
+To contribute to innovative products in **Embedded Systems, Semiconductor Design, AI, VLSI, and FPGA**, building reliable, scalable solutions that integrate hardware and software.
 
 ---
 
-# 📊 Activity Graph
+# 📫 Connect
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-* Email: [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- 📧 Email: YOUR_EMAIL@example.com
+- 💻 GitHub: https://github.com/HARSITHRAM
 
 ---
 
 <div align="center">
 
-### Thanks for visiting!
+## ⭐ *Turning Ideas into Intelligent Embedded Solutions*
 
-⭐ Explore my repositories and don't forget to leave a star if you find something interesting.
+Thanks for visiting my profile!
 
 </div>
