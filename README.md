@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ HARSITHRAM R
+# HARSITHRAM R
 
 ### **AI × FULL-STACK × ENGINEERING**
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-## 🧠 WHAT I BUILD
+##  WHAT I BUILD
 
 </div>
 
@@ -36,7 +36,7 @@
 <tr>
 <td width="33%" align="center">
 
-### 🤖 AI
+###  AI
 
 Computer Vision
 Machine Learning
@@ -48,7 +48,7 @@ Intelligent Automation
 
 <td width="33%" align="center">
 
-### 🌐 FULL-STACK
+###  FULL-STACK
 
 React
 Node.js
@@ -61,7 +61,7 @@ Web Applications
 
 <td width="33%" align="center">
 
-### ⚡ ENGINEERING
+###  ENGINEERING
 
 Python
 C / C++
@@ -78,7 +78,7 @@ Edge AI
 
 <div align="center">
 
-## 🚀 MY TECHNOLOGY UNIVERSE
+##  MY TECHNOLOGY UNIVERSE
 
 ### AI / ML
 
@@ -100,11 +100,11 @@ Edge AI
 
 ---
 
-# 🧩 FEATURED WORK
+# FEATURED WORK
 
 <div align="center">
 
-### 🦯 AI SMART BLIND STICK
+###  AI SMART BLIND STICK
 
 **AI-powered assistive navigation system**
 
@@ -114,7 +114,7 @@ Object detection • Voice navigation • GPS tracking • Fall detection • Em
 
 ---
 
-### 🎓 INTERACTIVE AI CLASSROOM
+###  INTERACTIVE AI CLASSROOM
 
 **AI-powered classroom intelligence platform**
 
@@ -124,7 +124,7 @@ Face detection • Attendance • Attention analysis • Real-time analytics
 
 ---
 
-### 📄 AI RESUME ANALYZER
+###  AI RESUME ANALYZER
 
 **Intelligent resume analysis & career assistant**
 
@@ -134,7 +134,7 @@ Resume parsing • ATS scoring • Skill extraction • Recommendations
 
 ---
 
-### 🤖 VOICE CONTROLLED ROBOT
+###  VOICE CONTROLLED ROBOT
 
 **Voice → Intelligence → Motion**
 
@@ -146,7 +146,7 @@ Voice commands • Motor control • Embedded automation
 
 ---
 
-# ⚙️ HOW I THINK
+#  HOW I THINK
 
 ```text
                  ┌─────────────────┐
@@ -183,7 +183,7 @@ Voice commands • Motor control • Embedded automation
 
 ---
 
-# 🌌 WHEN SOFTWARE MEETS HARDWARE
+#  WHEN SOFTWARE MEETS HARDWARE
 
 My main focus is **AI + Full-Stack development**, but my ECE background lets me take software beyond the screen.
 
@@ -212,7 +212,7 @@ This is where I enjoy experimenting with **Edge AI, IoT, computer vision and int
 
 <div align="center">
 
-# 📊 GITHUB ACTIVITY
+#  GITHUB ACTIVITY
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=HARSITHRAM&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
@@ -230,7 +230,7 @@ This is where I enjoy experimenting with **Edge AI, IoT, computer vision and int
 
 ---
 
-# 🧪 CURRENTLY EXPERIMENTING WITH
+#  CURRENTLY EXPERIMENTING WITH
 
 ```text
 ╭────────────────────────────────────────────────────────╮
@@ -247,7 +247,7 @@ This is where I enjoy experimenting with **Edge AI, IoT, computer vision and int
 
 <div align="center">
 
-## 💭 THE MISSION
+##  THE MISSION
 
 ### **Build technology that doesn't just work —**
 
