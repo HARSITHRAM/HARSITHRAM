@@ -1,139 +1,270 @@
-# 👋 Hi, I'm **Harsithram R**
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=900&color=00C8FF&center=true&vCenter=true&width=950&lines=AI+%26+Full-Stack+Developer;Building+Intelligent+Web+Applications;AI+%7C+Full-Stack+%7C+Computer+Vision;Turning+Ideas+into+Real+Products;Code+%2B+AI+%2B+Hardware+%E2%9A%A1" />
+# ⚡ HARSITHRAM R
 
-### 🚀 AI • Full-Stack • Computer Vision • Embedded Systems
+### **AI × FULL-STACK × ENGINEERING**
 
-> **I build intelligent products that combine AI, modern web technologies, and real-world systems.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Products;Full-Stack+Developer+%7C+AI+Engineer;Computer+Vision+%7C+Generative+AI;From+Idea+%E2%86%92+Code+%E2%86%92+Product;Engineering+the+Future%2C+One+System+at+a+Time" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=HARSITHRAM&style=for-the-badge&color=0e75b6"/>
-<img src="https://img.shields.io/github/followers/HARSITHRAM?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/HARSITHRAM?style=for-the-badge"/>
-</p>
+<br>
+
+<a href="https://github.com/HARSITHRAM">
+<img src="https://img.shields.io/badge/GitHub-HARSITHRAM-111827?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<br><br>
+
+> **I turn ideas into intelligent products — combining AI, full-stack engineering and real-world technology.**
 
 </div>
 
 ---
 
-## 🧠 Who Am I?
+<div align="center">
 
-I'm an **Electronics & Communication Engineering student** focused on building **AI-powered and full-stack applications**.
+## 🧠 WHAT I BUILD
 
-I enjoy taking an idea from:
+</div>
 
-**Concept → AI Model → Backend → Database → API → Frontend → Deployment**
+<table align="center">
+<tr>
+<td width="33%" align="center">
 
-and turning it into something people can actually use.
+### 🤖 AI
 
-My electronics background adds another layer to what I build — allowing me to connect software and AI with **sensors, embedded devices, IoT and edge systems** when the project needs it.
+Computer Vision
+Machine Learning
+Generative AI
+AI Applications
+Intelligent Automation
 
-> **I don't just want to write code. I want to build products.**
+</td>
+
+<td width="33%" align="center">
+
+### 🌐 FULL-STACK
+
+React
+Node.js
+Express
+MongoDB
+REST APIs
+Web Applications
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚡ ENGINEERING
+
+Python
+C / C++
+ESP32
+STM32
+IoT
+Edge AI
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ My Core Stack
+<div align="center">
 
-### 🤖 Artificial Intelligence
+## 🚀 MY TECHNOLOGY UNIVERSE
 
-**Python • OpenCV • YOLO • TensorFlow • PyTorch • Machine Learning • Computer Vision**
+### AI / ML
 
-### 🌐 Full-Stack Development
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv"/>
 
-**React • JavaScript • Node.js • Express.js • MongoDB • REST APIs**
+### Full-Stack
 
-### 🗄️ Backend & Data
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,js,html,css"/>
 
-**Node.js • Express • MongoDB • SQL • API Development • Authentication**
+### Database & Cloud
 
-### ⚙️ Electronics & Embedded
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,docker"/>
 
-**C • C++ • ESP32 • STM32 • Raspberry Pi • Arduino • MQTT • IoT**
+### Engineering
 
-### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,linux,git,github"/>
 
-**Git • GitHub • Linux • VS Code • MATLAB**
+</div>
 
 ---
 
-## 🚀 What I Like Building
+# 🧩 FEATURED WORK
+
+<div align="center">
+
+### 🦯 AI SMART BLIND STICK
+
+**AI-powered assistive navigation system**
+
+`YOLOv8` `Computer Vision` `Raspberry Pi` `ESP32` `GPS` `MQTT`
+
+Object detection • Voice navigation • GPS tracking • Fall detection • Emergency SOS
+
+---
+
+### 🎓 INTERACTIVE AI CLASSROOM
+
+**AI-powered classroom intelligence platform**
+
+`Python` `OpenCV` `Computer Vision` `Web Dashboard`
+
+Face detection • Attendance • Attention analysis • Real-time analytics
+
+---
+
+### 📄 AI RESUME ANALYZER
+
+**Intelligent resume analysis & career assistant**
+
+`Python` `NLP` `AI` `Web Application`
+
+Resume parsing • ATS scoring • Skill extraction • Recommendations
+
+---
+
+### 🤖 VOICE CONTROLLED ROBOT
+
+**Voice → Intelligence → Motion**
+
+`Python` `Embedded C` `Microcontroller` `Robotics`
+
+Voice commands • Motor control • Embedded automation
+
+</div>
+
+---
+
+# ⚙️ HOW I THINK
 
 ```text
-        💡 IDEA
-          │
-          ▼
-    🤖 AI / ML MODEL
-          │
-          ▼
-    ⚙️ BACKEND + API
-          │
-          ▼
-    🗄️ DATABASE
-          │
-          ▼
-    🌐 FULL-STACK APP
-          │
-          ▼
-      ☁️ DEPLOYMENT
+                 ┌─────────────────┐
+                 │      IDEA       │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │   AI / LOGIC    │
+                 └────────┬────────┘
+                          │
+                          ▼
+              ┌───────────────────────┐
+              │    BACKEND + APIs     │
+              └───────────┬───────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │    DATABASE     │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │   FRONTEND UI   │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │  REAL PRODUCT   │
+                 └─────────────────┘
 ```
 
-And when hardware is involved:
+**Build → Integrate → Test → Deploy → Improve**
+
+---
+
+# 🌌 WHEN SOFTWARE MEETS HARDWARE
+
+My main focus is **AI + Full-Stack development**, but my ECE background lets me take software beyond the screen.
 
 ```text
-📡 Sensors → ⚡ Embedded → 🤖 Edge AI → 🌐 API → 🖥️ Dashboard
+        🌐 WEB
+          │
+          ▼
+       🧠 AI
+          │
+          ▼
+       ⚙️ API
+          │
+          ▼
+       📡 IoT
+          │
+          ▼
+      🔌 HARDWARE
+          │
+          ▼
+       🌍 REAL WORLD
+```
+
+This is where I enjoy experimenting with **Edge AI, IoT, computer vision and intelligent embedded systems**.
+
+---
+
+<div align="center">
+
+# 📊 GITHUB ACTIVITY
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=HARSITHRAM&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSITHRAM&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HARSITHRAM&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSITHRAM&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧪 CURRENTLY EXPERIMENTING WITH
+
+```text
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│  🤖 Generative AI          🧠 AI Agents                │
+│  🌐 Advanced Full-Stack    👁️ Computer Vision          │
+│  ☁️ Cloud & Deployment     🏗️ System Design            │
+│  ⚡ Edge AI                📡 IoT                      │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## 🔥 Featured Projects
+<div align="center">
 
-### 🦯 AI Smart Blind Stick
+## 💭 THE MISSION
 
-AI-powered assistive technology combining:
+### **Build technology that doesn't just work —**
 
-**YOLOv8 • Computer Vision • Raspberry Pi • ESP32 • GPS • MQTT • Voice Navigation • IoT**
+### **build technology that matters.**
 
-### 🤖 Interactive Online Classroom
+<br>
 
-AI-powered classroom analytics platform featuring:
+**AI • Software • Engineering**
 
-**Face Detection • Attendance • Attention Analysis • Web Dashboard**
+<br>
 
-### 📄 AI Resume Analyzer
+<img src="https://komarev.com/ghpvc/?username=HARSITHRAM&style=for-the-badge&color=00C8FF"/>
 
-Intelligent resume analysis platform featuring:
+<br><br>
 
-**Resume Parsing • ATS Scoring • Skill Extraction • Recommendations**
+### ⭐ Thanks for stopping by.
 
-### 🤖 Voice-Controlled Pick & Place Robot
+**Let's build something intelligent.**
 
-A robotics project combining:
-
-**Voice Recognition • Embedded Systems • Motor Control • Automation**
-
----
-
-## 🌱 Currently Learning
-
-* Advanced Full-Stack Development
-* Generative AI & LLM Applications
-* AI Agents
-* Computer Vision
-* Backend Architecture
-* Cloud & Deployment
-* System Design
-* Embedded Linux
-
----
-
-## 🎯 What I'm Working Toward
-
-Building a career around **AI engineering and full-stack product development**, while using my electronics background to create systems that bridge the **digital and physical world**.
-
-> **AI gives products intelligence.
-> Full-stack gives them reach.
-> Electronics gives them a connection to the real world.**
-
-### ⚡ Build. Learn. Ship. Repeat.
+</div>
