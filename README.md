@@ -1,15 +1,12 @@
-
 # 👋 Hi, I'm **Harsithram R**
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;AI+%7C+IoT+%7C+FPGA+%7C+VLSI+Enthusiast;Building+Real-World+Engineering+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=900&color=00C8FF&center=true&vCenter=true&width=950&lines=AI+%26+Full-Stack+Developer;Building+Intelligent+Web+Applications;AI+%7C+Full-Stack+%7C+Computer+Vision;Turning+Ideas+into+Real+Products;Code+%2B+AI+%2B+Hardware+%E2%9A%A1" />
 
-### ⚡ Electronics & Communication Engineering Student
+### 🚀 AI • Full-Stack • Computer Vision • Embedded Systems
 
-**Embedded Systems • Artificial Intelligence • IoT • FPGA • VLSI • Computer Vision**
-
-> *Designing intelligent systems where hardware meets software.*
+> **I build intelligent products that combine AI, modern web technologies, and real-world systems.**
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=HARSITHRAM&style=for-the-badge&color=0e75b6"/>
@@ -21,209 +18,122 @@
 
 ---
 
-# 🚀 About Me
+## 🧠 Who Am I?
 
-```yaml
-Name        : Harsithram R
-Degree      : B.E. Electronics & Communication Engineering
-College     : Kongu Engineering College
-Graduation  : 2027
+I'm an **Electronics & Communication Engineering student** focused on building **AI-powered and full-stack applications**.
 
-Passionate About:
-  - Embedded Systems
-  - Edge AI
-  - IoT
-  - FPGA
-  - VLSI
-  - Computer Vision
-  - Robotics
-  - Product Development
+I enjoy taking an idea from:
+
+**Concept → AI Model → Backend → Database → API → Frontend → Deployment**
+
+and turning it into something people can actually use.
+
+My electronics background adds another layer to what I build — allowing me to connect software and AI with **sensors, embedded devices, IoT and edge systems** when the project needs it.
+
+> **I don't just want to write code. I want to build products.**
+
+---
+
+## ⚡ My Core Stack
+
+### 🤖 Artificial Intelligence
+
+**Python • OpenCV • YOLO • TensorFlow • PyTorch • Machine Learning • Computer Vision**
+
+### 🌐 Full-Stack Development
+
+**React • JavaScript • Node.js • Express.js • MongoDB • REST APIs**
+
+### 🗄️ Backend & Data
+
+**Node.js • Express • MongoDB • SQL • API Development • Authentication**
+
+### ⚙️ Electronics & Embedded
+
+**C • C++ • ESP32 • STM32 • Raspberry Pi • Arduino • MQTT • IoT**
+
+### 🛠️ Tools & Platforms
+
+**Git • GitHub • Linux • VS Code • MATLAB**
+
+---
+
+## 🚀 What I Like Building
+
+```text
+        💡 IDEA
+          │
+          ▼
+    🤖 AI / ML MODEL
+          │
+          ▼
+    ⚙️ BACKEND + API
+          │
+          ▼
+    🗄️ DATABASE
+          │
+          ▼
+    🌐 FULL-STACK APP
+          │
+          ▼
+      ☁️ DEPLOYMENT
 ```
 
-I enjoy building intelligent embedded products that combine firmware, electronics,
-AI and modern software. My goal is to work on semiconductor and embedded technologies
-that create practical impact.
+And when hardware is involved:
+
+```text
+📡 Sensors → ⚡ Embedded → 🤖 Edge AI → 🌐 API → 🖥️ Dashboard
+```
 
 ---
 
-# 🛠 Tech Stack
+## 🔥 Featured Projects
 
-## 👨‍💻 Languages
+### 🦯 AI Smart Blind Stick
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css"/>
-</p>
+AI-powered assistive technology combining:
 
-## ⚙ Embedded Systems
+**YOLOv8 • Computer Vision • Raspberry Pi • ESP32 • GPS • MQTT • Voice Navigation • IoT**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
-</p>
+### 🤖 Interactive Online Classroom
 
-- ESP32
-- STM32
-- Raspberry Pi
-- Arduino
-- UART
-- SPI
-- I²C
-- GPIO
-- MQTT
-- Embedded C
+AI-powered classroom analytics platform featuring:
 
-## 🤖 AI / ML
+**Face Detection • Attendance • Attention Analysis • Web Dashboard**
 
-- OpenCV
-- YOLOv8
-- LSTM
-- TensorFlow
-- PyTorch
-- Computer Vision
+### 📄 AI Resume Analyzer
 
-## 🌐 Web
+Intelligent resume analysis platform featuring:
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
-</p>
+**Resume Parsing • ATS Scoring • Skill Extraction • Recommendations**
 
-## 🧰 Tools
+### 🤖 Voice-Controlled Pick & Place Robot
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,matlab"/>
-</p>
+A robotics project combining:
+
+**Voice Recognition • Embedded Systems • Motor Control • Automation**
 
 ---
 
-# 🚀 Featured Projects
+## 🌱 Currently Learning
 
-## 🦯 AI Smart Blind Stick
-An assistive navigation system for visually impaired users.
-
-**Features**
-- YOLOv8 Object Detection
-- Voice Navigation
-- Google Maps Guidance
-- Emergency SOS
-- GPS Tracking
-- Fall Detection
-- MQTT Communication
-- Raspberry Pi + ESP32 Architecture
-
-**Hardware**
-- Raspberry Pi 4
-- ESP32
-- Camera
-- MPU6050
-- GPS
-- Ultrasonic Sensors
-- Buzzer
+* Advanced Full-Stack Development
+* Generative AI & LLM Applications
+* AI Agents
+* Computer Vision
+* Backend Architecture
+* Cloud & Deployment
+* System Design
+* Embedded Linux
 
 ---
 
-## 🤖 Interactive Online Classroom
+## 🎯 What I'm Working Toward
 
-AI-powered engagement monitoring system.
+Building a career around **AI engineering and full-stack product development**, while using my electronics background to create systems that bridge the **digital and physical world**.
 
-- Face Detection
-- Attendance
-- Attention Analysis
-- Dashboard
+> **AI gives products intelligence.
+> Full-stack gives them reach.
+> Electronics gives them a connection to the real world.**
 
----
-
-## ⚙ STM32 Bare-Metal Projects
-
-- GPIO
-- Timers
-- UART
-- SPI
-- I²C
-- Interrupts
-- Register-Level Programming
-
----
-
-## 📄 Resume Analyzer
-
-Python application for resume parsing, ATS scoring and skill recommendations.
-
----
-
-## 🤖 Voice Controlled Pick & Place Robot
-
-Voice-operated robotic arm using embedded controllers.
-
----
-
-# 🏆 Achievements
-
-- 🥇 Ideathon Participant
-- 🚀 Smart India Hackathon Participant
-- 💡 Built multiple AI & Embedded projects
-- 📚 Constantly learning new technologies
-
----
-
-# 📚 Currently Learning
-
-- Embedded Linux
-- RTOS
-- FPGA Design
-- Verilog HDL
-- PCB Design
-- Device Drivers
-- Edge AI
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HARSITHRAM&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSITHRAM&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HARSITHRAM&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSITHRAM&theme=tokyo-night"/>
-</p>
-
----
-
-# 🎯 Career Goal
-
-To build innovative products in Embedded Systems, AI, Semiconductor Design,
-FPGA and VLSI while continuously improving my engineering skills.
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/HARSITHRAM">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-*"Turning Ideas into Intelligent Embedded Solutions."*
-
-</div>
+### ⚡ Build. Learn. Ship. Repeat.
