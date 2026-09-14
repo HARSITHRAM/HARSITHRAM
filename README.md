@@ -7,15 +7,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Products;Full-Stack+Developer+%7C+AI+Engineer;Computer+Vision+%7C+Generative+AI;From+Idea+%E2%86%92+Code+%E2%86%92+Product;Engineering+the+Future%2C+One+System+at+a+Time" />
 
 <br>
+<a href="https://github.com/HARSITHRAM" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-HARSITHRAM-111827?style=for-the-badge&logo=github"/>
+</a>
 
-<a href="https://github.com/HARSITHRAM">
-<img src="https://img.shields.io/badge/GitHub-HARSITHRAM-111827?style=for-the-badge&logo=github"/>
+<a href="https://www.linkedin.com/in/harsithram-r-b03a63273/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Harsithram%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://linkedin.com">
-<img src="https://www.linkedin.com/in/harsithram-r-b03a63273/"/>
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+
+<a href="harsithram08@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
